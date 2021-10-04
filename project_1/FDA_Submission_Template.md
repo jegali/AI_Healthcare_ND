@@ -13,7 +13,8 @@
 **Indications for Use:** PneumoNET is indicated for use in screening pneunomia in males and females of ages 1-95 years having one or more combinations ofthe following diseases: atelectasis, cardiomegaly, standardization, edema, effusion, emphysema, fibrosis, hernia, infiltration, mass, nodule, **pneunomia**, pneumothorax. Images must be of type x-ray and body part must be CHEST. The modality must be equal to "DX" and the position has to be "PA" or "AP"
 
 **Device Limitations:** 
-- The algorithm works best with an GPU and it is therefore not suitable in an emergency setting with low end hardware.
+- A GPU is required to run the model in adequate time. Otherwise, there will be time-lag in prediction. For security reasons, the algorithm is therefore not suitable in an emergency setting with low end hardware.
+- The model is trained on the freely available NIH chest x-ray dataset. In this dataset, the image intensity distribution of pneumonia and other diseases auch as effusion and infiltration are quite similar. This may lead to false results.
 
 **Clinical Impact of Performance:**
 
