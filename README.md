@@ -16,8 +16,7 @@ on them. Build different AI models for different clinical scenarios that involve
 position AI tools for regulatory approval.
 
 [Project 1: Applying AI to 2D Medical Imaging Data](#)
-  
-
+<br/><br/>
 
 ## Course 2: Applying AI to 3D Medical Imaging Data 
 
