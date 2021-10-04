@@ -8,11 +8,12 @@
 
 ### 1. General Information
 
-**Intended Use Statement:** PneumoNET will assist radiologists to detect pneunomia by examining x-ray images.
+**Intended Use Statement:** PneumoNET will assist radiologists to classify a given chest x-ray for presence or absence of pneunomia by examining the x-ray image.
 
 **Indications for Use:** PneumoNET is indicated for use in screening pneunomia in males and females of ages 1-95 years having one or more combinations ofthe following diseases: atelectasis, cardiomegaly, standardization, edema, effusion, emphysema, fibrosis, hernia, infiltration, mass, nodule, **pneunomia**, pneumothorax. Images must be of type x-ray and body part must be CHEST. The modality must be equal to "DX" and the position has to be "PA" or "AP"
 
-**Device Limitations:** The algorithm works best with an GPU and it is therefore not suitable in an emergency setting with low end hardware.
+**Device Limitations:** 
+- The algorithm works best with an GPU and it is therefore not suitable in an emergency setting with low end hardware.
 
 **Clinical Impact of Performance:**
 
