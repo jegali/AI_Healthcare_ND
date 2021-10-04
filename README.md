@@ -2,7 +2,8 @@
 
 This repository contains detailed notes and multiple projects implemented in Python for the "AI for Healthcare"-Nanodegree of Udacity.
 
-Course 1:  
+
+## Course 1:  
 
 2D imaging, such as X-ray, is widely used when making critical decisions about patient care and accessible by
 most healthcare centers around the world. With the advent of deep learning for non-medical imaging data
