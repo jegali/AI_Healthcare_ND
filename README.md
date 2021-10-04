@@ -13,4 +13,4 @@ Extract 2D images from DICOM files and apply the appropriate tools to perform ex
 on them. Build different AI models for different clinical scenarios that involve 2D images and learn how to
 position AI tools for regulatory approval.
 
-[#](Project 1: Applying AI to 2D Medical Imaging Data)
+[Project 1: Applying AI to 2D Medical Imaging Data](#)
