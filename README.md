@@ -16,7 +16,7 @@ Extract 2D images from DICOM files and apply the appropriate tools to perform ex
 on them. Build different AI models for different clinical scenarios that involve 2D images and learn how to
 position AI tools for regulatory approval.
 
-[Project 1: Applying AI to 2D Medical Imaging Data](#)
+[Project 1: Applying AI to 2D Medical Imaging Data](https://github.com/jegali/AI_for_Healthcare_ND/tree/main/project_1)
 <br/><br/>
 
 
@@ -31,7 +31,7 @@ subsequently read and analyzed. Discover how clinicians use 3D medical images in
 most potential in their work with these images. Design and apply machine learning algorithms to solve the
 challenging problems in 3D medical imaging and how to integrate the algorithms into the clinical workflow. 
 
-[Project 2: Applying AI to 3D Medical Imaging Data](#)
+[Project 2: Applying AI to 3D Medical Imaging Data](https://github.com/jegali/AI_for_Healthcare_ND/tree/main/project_2)
 <br/><br/>
 
 
@@ -45,7 +45,7 @@ Tensorflow Probability, Aequitas, and Shapley. Understand the implications of ke
 standards in healthcare. Apply industry code sets (ICD10-CM, CPT, HCPCS, NDC), transform datasets at different
 EHR data levels, and use Tensorflow to engineer features.  
 
-[Project 3: Applying AI to EHR Data](#)
+[Project 3: Applying AI to EHR Data](https://github.com/jegali/AI_for_Healthcare_ND/tree/main/project_3)
 <br/><br/>
 
 
@@ -58,4 +58,4 @@ and the foundational signal processing knowledge critical for success in this do
 and environmental context’s effect on the sensor signal. Build algorithms that process the data collected by
 multiple sensor streams from wearable devices to surface insights about the wearer’s health. 
 
-[Project 4: Applying AI to Wearable Device Data](#)
+[Project 4: Applying AI to Wearable Device Data](https://github.com/jegali/AI_for_Healthcare_ND/tree/main/project_4)
