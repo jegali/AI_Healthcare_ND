@@ -58,7 +58,7 @@
 
 ### 6. FDA Validation Plan
 
-**Patient Population Description for FDA Validation Dataset:**
+**Patient Population Description for FDA Validation Dataset:** Patients, male and female, in age-range of 1-95 years. The dataset includes 20% pneunomia cases and 80% non-pneunomia cases. It includes multiple follow-up records for a given patient. The total number of records in the validation set is 1430.
 
 **Ground Truth Acquisition Methodology:**
 
