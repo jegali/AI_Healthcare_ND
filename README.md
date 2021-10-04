@@ -1,8 +1,9 @@
-# AI_Healthcare_ND
+# AI for Healthcare ND
 
 This repository contains detailed notes and multiple projects implemented in Python for the "AI for Healthcare"-Nanodegree of Udacity.
 <br/><br/>
-  
+
+
 ## Course 1: Applying AI to 2D Medical Imaging Data 
 
 2D imaging, such as X-ray, is widely used when making critical decisions about patient care and accessible by
@@ -18,6 +19,7 @@ position AI tools for regulatory approval.
 [Project 1: Applying AI to 2D Medical Imaging Data](#)
 <br/><br/>
 
+
 ## Course 2: Applying AI to 3D Medical Imaging Data 
 
 3D medical imaging exams such as CT and MRI serve as critical decision-making tools in the clinician’s
@@ -30,7 +32,7 @@ most potential in their work with these images. Design and apply machine learnin
 challenging problems in 3D medical imaging and how to integrate the algorithms into the clinical workflow. 
 
 [Project 2: Applying AI to 3D Medical Imaging Data](#)
-  
+<br/><br/>
 
 
 ## Course 3: Applying AI to EHR Data 
@@ -44,7 +46,7 @@ standards in healthcare. Apply industry code sets (ICD10-CM, CPT, HCPCS, NDC), t
 EHR data levels, and use Tensorflow to engineer features.  
 
 [Project 3: Applying AI to EHR Data](#)
-  
+<br/><br/>
 
 
 ## Course 4: Applying AI to Wearable Device Data  
